@@ -230,7 +230,7 @@ Open the Inngest Dev Server UI at `http://localhost:8288` to see:
 ## 📁 Project Structure
 
 ```
-Prodution_Ready_RAG/
+QueryIT/
 ├── main.py              # FastAPI app + Inngest functions
 ├── streamlit_app.py     # Streamlit UI
 ├── data_loader.py       # PDF loading and embedding logic
